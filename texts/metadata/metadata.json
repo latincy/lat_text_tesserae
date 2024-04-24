@@ -199,7 +199,7 @@
         "date": "380",
         "mode": "verse"
     },
-    "ausonius.epicedion_in_patrem_1.tess": {
+    "ausonius.epicedion_in_patrem.tess": {
         "date": "395",
         "mode": "verse"
     },
@@ -243,7 +243,7 @@
         "date": "383",
         "mode": "verse"
     },
-    "ausonius.parentalia_1.tess": {
+    "ausonius.parentalia.tess": {
         "date": "382",
         "mode": "verse"
     },
@@ -255,7 +255,7 @@
         "date": "379",
         "mode": "verse"
     },
-    "ausonius.technopaegnion_1.tess": {
+    "ausonius.technopaegnion.tess": {
         "date": "390",
         "mode": "verse"
     },
@@ -924,17 +924,17 @@
         "mode": "verse",
         "genre": "epic"
     },
-    "claudian.de_rapturpinae.part.1.tess": {
+    "claudian.de_raptu_proserpinae.part.1.tess": {
         "date": "404",
         "mode": "verse",
         "genre": "epic"
     },
-    "claudian.de_rapturpinae.part.2.tess": {
+    "claudian.de_raptu_proserpinae.part.2.tess": {
         "date": "404",
         "mode": "verse",
         "genre": "epic"
     },
-    "claudian.de_rapturpinae.part.3.tess": {
+    "claudian.de_raptu_proserpinae.part.3.tess": {
         "date": "404",
         "mode": "verse",
         "genre": "epic"
@@ -1864,11 +1864,6 @@
     "martial.epigrams.part.9.tess": {
         "date": "100",
         "mode": "verse"
-    },
-    "maximianus.elegiae.tess": {
-        "date": "550",
-        "mode": "verse",
-        "genre": "elegy"
     },
     "nepos.vitae.tess": {
         "date": "-32",
