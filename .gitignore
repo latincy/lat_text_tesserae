@@ -148,4 +148,4 @@ cython_debug/
 .idea/
 
 # Project-specific
-utils/update_tesserae_texts.log
+utils/
