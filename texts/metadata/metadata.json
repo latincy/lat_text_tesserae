@@ -323,10 +323,6 @@
         "date": "524",
         "mode": "prose"
     },
-    "caesar_augustus.res_gestae_divi_augusti.tess": {
-        "date": "14",
-        "mode": "prose"
-    },
     "caesar.de_bello_civili.part.1.tess": {
         "date": "-47",
         "mode": "prose"
@@ -369,6 +365,10 @@
     },
     "caesar.de_bello_gallico.part.8.tess": {
         "date": "-51",
+        "mode": "prose"
+    },
+    "caesar_augustus.res_gestae_divi_augusti.tess": {
+        "date": "14",
         "mode": "prose"
     },
     "catullus.carmina.tess": {
@@ -795,12 +795,12 @@
         "date": "-56",
         "mode": "prose"
     },
-    "cicero.pro_c_rabirio_postumo.tess": {
-        "date": "-63",
-        "mode": "prose"
-    },
     "cicero.pro_c_rabirio.tess": {
         "date": "-54",
+        "mode": "prose"
+    },
+    "cicero.pro_c_rabirio_postumo.tess": {
+        "date": "-63",
         "mode": "prose"
     },
     "cicero.pro_fonteio.tess": {
@@ -901,43 +901,43 @@
     },
     "claudian.de_bello_gildonico.tess": {
         "date": "398",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_bello_gothico.tess": {
         "date": "402",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_consulatu_stilichonis.part.1.tess": {
         "date": "400",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_consulatu_stilichonis.part.2.tess": {
         "date": "400",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_consulatu_stilichonis.part.3.tess": {
         "date": "400",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_raptu_proserpinae.part.1.tess": {
         "date": "404",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_raptu_proserpinae.part.2.tess": {
         "date": "404",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.de_raptu_proserpinae.part.3.tess": {
         "date": "404",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.epithalamium_de_nuptiis_honorii_augusti.tess": {
         "date": "398",
@@ -949,23 +949,23 @@
     },
     "claudian.in_eutropium.part.1.tess": {
         "date": "399",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.in_eutropium.part.2.tess": {
         "date": "399",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.in_rufinum.part.1.tess": {
         "date": "397",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.in_rufinum.part.2.tess": {
         "date": "397",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "claudian.panegyricus_de_quarto_consulatu_honorii_augusti.tess": {
         "date": "398",
@@ -1101,58 +1101,58 @@
     },
     "dracontius.romulea.part.1.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.10.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.2.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.3.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.4.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.5.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.6.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.7.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.8.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.9.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.romulea.part.fragments.tess": {
         "date": "492",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "dracontius.satisfactio.tess": {
         "date": "492",
@@ -1160,8 +1160,8 @@
     },
     "ennius.annales.tess": {
         "date": "-170",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ennodius.opera.tess": {
         "date": "500",
@@ -1305,8 +1305,8 @@
     },
     "italicus.ilias_latina.tess": {
         "date": "65",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "jerome.epistulae.tess": {
         "date": "420",
@@ -1634,119 +1634,243 @@
     },
     "juvencus.historia_evangelica.part.1.tess": {
         "date": "330",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "juvencus.historia_evangelica.part.2.tess": {
         "date": "330",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "juvencus.historia_evangelica.part.3.tess": {
         "date": "330",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "juvencus.historia_evangelica.part.4.tess": {
         "date": "330",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
-    "livy.ab_urbe_condita.part.1.books_1-10.tess": {
+    "livy.ab_urbe_condita.part.1.tess": {
         "date": "17",
         "mode": "prose"
     },
-    "livy.ab_urbe_condita.part.2.books_21-30.tess": {
+    "livy.ab_urbe_condita.part.10.tess": {
         "date": "17",
         "mode": "prose"
     },
-    "livy.ab_urbe_condita.part.3.books_31-40.tess": {
+    "livy.ab_urbe_condita.part.11.tess": {
         "date": "17",
         "mode": "prose"
     },
-    "livy.ab_urbe_condita.part.4.books_41-45.tess": {
+    "livy.ab_urbe_condita.part.12.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.13.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.14.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.15.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.16.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.17.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.18.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.19.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.2.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.20.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.21.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.22.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.23.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.24.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.25.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.26.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.27.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.28.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.29.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.3.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.30.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.31.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.32.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.33.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.34.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.35.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.4.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.5.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.6.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.7.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.8.tess": {
+        "date": "17",
+        "mode": "prose"
+    },
+    "livy.ab_urbe_condita.part.9.tess": {
         "date": "17",
         "mode": "prose"
     },
     "lucan.bellum_civile.part.1.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.10.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.2.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.3.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.4.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.5.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.6.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.7.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.8.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucan.bellum_civile.part.9.tess": {
         "date": "61",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.1.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.2.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.3.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.4.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.5.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "lucretius.de_rerum_natura.part.6.tess": {
         "date": "-55",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "macrobius.fragment.tess": {
         "date": "431",
@@ -1782,28 +1906,28 @@
     },
     "manilius.astronomicon.part.1.tess": {
         "date": "14",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "manilius.astronomicon.part.2.tess": {
         "date": "14",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "manilius.astronomicon.part.3.tess": {
         "date": "14",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "manilius.astronomicon.part.4.tess": {
         "date": "14",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "manilius.astronomicon.part.5.tess": {
         "date": "14",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "marcus_mincuius_felix.octavius.tess": {
         "date": "211",
@@ -1871,208 +1995,208 @@
     },
     "ovid.amores.part.1.tess": {
         "date": "-15",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.amores.part.2.tess": {
         "date": "-15",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.amores.part.3.tess": {
         "date": "-15",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ars_amatoria.part.1.tess": {
         "date": "-1",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ars_amatoria.part.2.tess": {
         "date": "-1",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ars_amatoria.part.3.tess": {
         "date": "-1",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ex_ponto.part.1.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ex_ponto.part.2.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ex_ponto.part.3.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ex_ponto.part.4.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.1.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.2.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.3.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.4.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.5.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.fasti.part.6.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.heroides.part.1.1-15.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.heroides.part.2.16-21.tess": {
         "date": "8",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.ibis.tess": {
         "date": "11",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.medicamina_faciei_femineae.tess": {
         "date": "-2",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.1.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.10.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.11.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.12.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.13.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.14.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.15.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.2.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.3.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.4.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.5.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.6.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.7.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.8.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.metamorphoses.part.9.tess": {
         "date": "7",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "ovid.remedia_amoris.tess": {
         "date": "1",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.tristia.part.1.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.tristia.part.2.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.tristia.part.3.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.tristia.part.4.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "ovid.tristia.part.5.tess": {
         "date": "16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "paulus_diaconus.carmina.tess": {
         "date": "770",
@@ -2166,31 +2290,151 @@
         "date": "-186",
         "mode": "verse"
     },
-    "pliny_the_elder.naturalis_historia.part.1.books_1-5.tess": {
+    "pliny_the_elder.naturalis_historia.part.1.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.2.books_6-10.tess": {
+    "pliny_the_elder.naturalis_historia.part.10.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.3.books_11-15.tess": {
+    "pliny_the_elder.naturalis_historia.part.11.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.4.books_16-20.tess": {
+    "pliny_the_elder.naturalis_historia.part.12.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.5.books_21-25.tess": {
+    "pliny_the_elder.naturalis_historia.part.13.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.6.books_26-30.tess": {
+    "pliny_the_elder.naturalis_historia.part.14.tess": {
         "date": "77",
         "mode": "prose"
     },
-    "pliny_the_elder.naturalis_historia.part.7.books_31-37.tess": {
+    "pliny_the_elder.naturalis_historia.part.15.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.16.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.17.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.18.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.19.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.2.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.20.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.21.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.22.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.23.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.24.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.25.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.26.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.27.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.28.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.29.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.3.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.30.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.31.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.32.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.33.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.34.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.35.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.36.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.37.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.4.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.5.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.6.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.7.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.8.tess": {
+        "date": "77",
+        "mode": "prose"
+    },
+    "pliny_the_elder.naturalis_historia.part.9.tess": {
         "date": "77",
         "mode": "prose"
     },
@@ -2264,23 +2508,23 @@
     },
     "propertius.elegies.tess": {
         "date": "-16",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "prudentius.apotheosis.tess": {
         "date": "403",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "prudentius.contra_symmachum.part.1.tess": {
         "date": "403",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "prudentius.contra_symmachum.part.2.tess": {
         "date": "403",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "prudentius.dittochaeon.tess": {
         "date": "410",
@@ -2296,8 +2540,8 @@
     },
     "prudentius.psychomachia.tess": {
         "date": "400",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "pseudo_cicero.in_sallustium.tess": {
         "date": "-54",
@@ -2375,52 +2619,88 @@
         "date": "-41",
         "mode": "prose"
     },
-    "scriptores_historiae_augustae.historia_augusta.part.1.books_1-5.tess": {
+    "scriptores_historiae_augustae.historia_augusta.part.1.tess": {
         "date": "284",
         "mode": "prose"
     },
-    "scriptores_historiae_augustae.historia_augusta.part.2.books_6-10.tess": {
+    "scriptores_historiae_augustae.historia_augusta.part.10.tess": {
         "date": "284",
         "mode": "prose"
     },
-    "scriptores_historiae_augustae.historia_augusta.part.3.books_11-15.tess": {
+    "scriptores_historiae_augustae.historia_augusta.part.11.tess": {
         "date": "284",
         "mode": "prose"
     },
-    "scriptores_historiae_augustae.historia_augusta.part.4.books_16-21.tess": {
+    "scriptores_historiae_augustae.historia_augusta.part.12.tess": {
         "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.controversiae.part.1.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.13.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.controversiae.part.10.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.14.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.controversiae.part.2.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.15.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.controversiae.part.7.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.16.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.controversiae.part.8.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.17.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.excerpta_controversiae.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.18.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.fragmenta.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.19.tess": {
+        "date": "284",
         "mode": "prose"
     },
-    "seneca_the_elder.suasoriae.tess": {
-        "date": "-40",
+    "scriptores_historiae_augustae.historia_augusta.part.2.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.20.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.21.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.3.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.4.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.5.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.6.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.7.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.8.tess": {
+        "date": "284",
+        "mode": "prose"
+    },
+    "scriptores_historiae_augustae.historia_augusta.part.9.tess": {
+        "date": "284",
         "mode": "prose"
     },
     "seneca.ad_lucilium_epistulae_morales.part.1.1-10.tess": {
@@ -2591,6 +2871,38 @@
         "date": "54",
         "mode": "verse"
     },
+    "seneca_the_elder.controversiae.part.1.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.controversiae.part.10.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.controversiae.part.2.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.controversiae.part.7.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.controversiae.part.8.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.excerpta_controversiae.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.fragmenta.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
+    "seneca_the_elder.suasoriae.tess": {
+        "date": "-40",
+        "mode": "prose"
+    },
     "servius_honoratus.in_virgilii_georgicon_libros_commentarius.part.1.tess": {
         "date": "350",
         "mode": "prose"
@@ -2609,93 +2921,93 @@
     },
     "silius_italicus.punica.part.1.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.10.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.11.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.12.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.13.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.14.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.15.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.16.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.17.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.2.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.3.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.4.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.5.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.6.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.7.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.8.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "silius_italicus.punica.part.9.tess": {
         "date": "101",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.achilleid.tess": {
         "date": "96",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.silvae.part.1.tess": {
         "date": "96",
@@ -2719,63 +3031,63 @@
     },
     "statius.thebaid.part.1.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.10.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.11.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.12.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.2.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.3.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.4.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.5.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.6.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.7.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.8.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "statius.thebaid.part.9.tess": {
         "date": "92",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "suetonius.de_vita_caesarum.part.1.julius.tess": {
         "date": "122",
@@ -2939,48 +3251,48 @@
     },
     "tibullus.elegies.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "elegy"
+        "genre": "elegy",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.1.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.2.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.3.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.4.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.5.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.6.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.7.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_flaccus.argonautica.part.8.tess": {
         "date": "90",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "valerius_maximus.facta_et_dicta_memorabilia.part.1.tess": {
         "date": "37",
@@ -3020,63 +3332,63 @@
     },
     "vergil.aeneid.part.1.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.10.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.11.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.12.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.2.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.3.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.4.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.5.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.6.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.7.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.8.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.aeneid.part.9.tess": {
         "date": "-19",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.eclogues.tess": {
         "date": "-39",
@@ -3084,23 +3396,23 @@
     },
     "vergil.georgics.part.1.tess": {
         "date": "-29",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.georgics.part.2.tess": {
         "date": "-29",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.georgics.part.3.tess": {
         "date": "-29",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vergil.georgics.part.4.tess": {
         "date": "-29",
-        "mode": "verse",
-        "genre": "epic"
+        "genre": "epic",
+        "mode": "verse"
     },
     "vitruvius.de_architectura.part.1.tess": {
         "date": "-27",
