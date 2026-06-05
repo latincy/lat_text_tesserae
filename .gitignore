@@ -147,5 +147,8 @@ cython_debug/
 # PyCharm
 .idea/
 
+# macOS
+.DS_Store
+
 # Project-specific
 utils/
