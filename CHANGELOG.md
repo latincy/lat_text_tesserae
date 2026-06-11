@@ -9,7 +9,10 @@ All notable changes to this project will be documented in this file.
   - Converted CRLF and stray carriage returns to LF line endings (182 files).
   - Collapsed erroneous double spaces in text bodies to single spaces (467 files); citation tags left unchanged, as their internal spacing is systematic.
   - Removed leading/trailing blank lines and ensured a single trailing newline.
-  - Applied NFC Unicode normalization to precomposed/decomposed Greek (220 files), matching the LatinCy canonical form. Files with legacy encoding artifacts (mojibake) were left untouched pending a dedicated repair pass.
+  - Applied NFC Unicode normalization to precomposed/decomposed Greek (220 files), matching the LatinCy canonical form.
+
+### Fixed
+- Repaired legacy mojibake (UTF-8 text previously decoded as Latin-1) in 58 files, recovering 924 Greek characters and restoring em-dashes — e.g. the Homeric phrase `ζείδωρος ἄρουρα` in Pliny. Repair was confined to the corrupted byte regions: all ASCII Latin text, citation tags, and structure are byte-identical, and output is NFC.
 
 ## [0.3] - 2026-06-05
 
