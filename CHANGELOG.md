@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5] - 2026-06-11
+
+### Changed
+- Normalized Latin accentuation and converted embedded Greek for cleaner NLP input. Latin prosodic accentuation in the corpus was sporadic, non-lexical, and unreliable (its absence is uninformative), so it is removed for a consistent plaintext collection; embedded Greek, a real/standard encoding, is converted to Unicode and kept.
+  - Stripped all Latin accents and macrons: 3,208 precomposed vowels (`á à â ä é … ā`) → base, plus ~1,073 beta-code accent marks (`/ \ + |`) removed.
+  - Converted 72 genuine Greek beta-code tokens to NFC Unicode polytonic (e.g. `h(patiko\n` → ἡπατικὸν; Homer/Hesiod quotations verified against canonical texts).
+  - Expanded 1,354 `ae`/`oe` ligatures (`æ Æ œ Œ`) → `ae`/`oe`.
+  - Restored Martial synizesis spellings (14, e.g. `abi=t` → `abiit`, `deu=m` → `deum`).
+
+### Fixed
+- Three stray backslash transcription errors: `\Muci` → Muci (Cic. Ver. 2.2.27), `\Timotheus` → Timotheus (Plin. Nat. 34.33), `\ineas` → vineas (Col. Rust. 3.13.3).
+- Two OCR errors: `f/terat` → fuerat (Livy 40.38.3), `soror++et` → soror et (Val. Fl. 3.514).
+- Removed leftover `skipl…prevline=` scrape metadata from three Ausonius files (5 lines).
+
 ## [0.4] - 2026-06-11
 
 ### Changed
