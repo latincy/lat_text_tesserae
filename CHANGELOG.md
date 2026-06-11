@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4] - 2026-06-11
+
+### Changed
+- Normalized whitespace and Unicode across 661 files, with **no changes to textual content** (verified whitespace/NFC-only, zero content loss):
+  - Converted CRLF and stray carriage returns to LF line endings (182 files).
+  - Collapsed erroneous double spaces in text bodies to single spaces (467 files); citation tags left unchanged, as their internal spacing is systematic.
+  - Removed leading/trailing blank lines and ensured a single trailing newline.
+  - Applied NFC Unicode normalization to precomposed/decomposed Greek (220 files), matching the LatinCy canonical form. Files with legacy encoding artifacts (mojibake) were left untouched pending a dedicated repair pass.
+
 ## [0.3] - 2026-06-05
 
 ### Changed
