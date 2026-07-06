@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+type: software
+title: "LatinCy Tesserae Latin Corpus"
+version: "0.5"
+date-released: "2026-06-11"
+url: "https://github.com/latincy/lat_text_tesserae"
+repository-code: "https://github.com/latincy/lat_text_tesserae"
+license: "LicenseRef-UB-Public-1.0"
+abstract: >-
+  A LatinCy fork of the Tesserae Latin corpus prepared for use with
+  the LatinCy NLP pipeline. Includes normalization of whitespace,
+  Unicode (NFC), Latin accentuation, and embedded Greek beta-code
+  conversion. Based on the original Tesserae Project texts.
+authors:
+  - family-names: Burns
+    given-names: Patrick J.
+    email: patrick@diyclassics.org
+    orcid: "https://orcid.org/0000-0003-2158-7758"
+references:
+  - type: software
+    title: "CLTK Tesserae Latin Corpus"
+    authors:
+      - name: "Tesserae Project"
+      - name: "Classical Language Toolkit"
+    url: "https://github.com/cltk/latin_text_tesserae"
+    year: 2019
+keywords:
+  - Latin
+  - corpus
+  - plaintext
+  - natural language processing
+  - NLP
+  - LatinCy
+  - Tesserae
