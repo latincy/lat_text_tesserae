@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.6.1] - 2026-07-06
+
+### Fixed
+- Corrected citation format violations in 13 files to pass `validate_tess.py`: stripped UTF-8 BOM from 5 files, removed leading space before opening tag (macrobius.saturnalia.part.2), tagged untagged line and renumbered (pseudo_cicero.in_sallustium), fixed split tag (terence.phormio), added missing space after `>` (cicero.brutus), added missing `<` (cicero.philippicae.part.7), joined line-broken editorial brackets `<pronos>`, `<quem>`, `<nuntius>` and lacuna continuation (aurelius_victor.de_caesaribus), tagged untagged section headers (augustine.de_doctrina_christiana.part.4), removed anomalous line (anonymous.laudes_domini).
+- Fixed double period in citation tags across sallust.catilina and sallust.jugurtha.
+
 ## [0.6] - 2026-07-06
 
 ### Fixed

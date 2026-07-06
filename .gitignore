@@ -153,3 +153,4 @@ cython_debug/
 # Project-specific
 utils/
 !utils/validate_tess.py
+*_local.json
