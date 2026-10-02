@@ -154,3 +154,4 @@ cython_debug/
 utils/
 !utils/validate_tess.py
 *_local.json
+.claude/
